@@ -1,17 +1,3 @@
-*/
-
-
-//The following code demonstrates how to call the add 
-//function in one of your site's backend files.
-
-/* 
-import {add} from 'public/new-file.js'
-
-export function usingFunctionFromPublic(a, b) {
-	return add(a,b);
-}
-*/
-
 /* -----------------------------------------------
 /* How to use? : Check the GitHub README
 /* ----------------------------------------------- */
