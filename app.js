@@ -27,7 +27,7 @@ particlesJS('particles-js9',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static1.squarespace.com/static/547cdf30e4b030f853b6d7c1/5cc8b9d9ee6eb061011a53c3/5e3c2b7fd1bbc319fe2571d3/1581001673995/Communities+in+Partnership.png",
+          "src": "https://static.wixstatic.com/media/af3d5f_84cdeba5b31a482c85bddd76ee03ce16~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Red%20HEART%402x.webp",
           "width": 100,
           "height": 60
         }
@@ -150,7 +150,7 @@ particlesJS('particles-js8',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -159,7 +159,7 @@ particlesJS('particles-js8',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static1.squarespace.com/static/547cdf30e4b030f853b6d7c1/5cc8b9d9ee6eb061011a53c3/5e319d4b09f8033568fc1b4e/1584557414120/Circular%2BTriangle.jpg",
+          "src": "https://static.wixstatic.com/media/af3d5f_e4f0f9bd0c954eeaa2794053fa70c6a1~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Blue%20HEART%402x.webp",
           "width": 100,
           "height": 100
         }
@@ -271,7 +271,7 @@ particlesJS('particles-js7',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -280,7 +280,7 @@ particlesJS('particles-js7',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1523972471673-5SCE22XGJDRED1Y25MB1/ke17ZwdGBToddI8pDm48kLPswmMOqQZ9-Q6KHLjvbpZ7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UTcpTqfU-ZEsztPyQLxhSSK-PhJjRDDFQG0l3_ZnmWi1QjT9byXZM3ISxo3y1NRptg/Connell_Green.jpg",
+          "src": "https://static.wixstatic.com/media/af3d5f_6a6a13ba38844b11b9247ffabf7ceaa0~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Purple%20HEART%402x.webp",
           "width": 100,
           "height": 100
         }
@@ -392,7 +392,7 @@ particlesJS('particles-js6',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -401,7 +401,7 @@ particlesJS('particles-js6',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1592490611022-B2FDAUKXGTGUT33J4M18/ke17ZwdGBToddI8pDm48kGxr5ZM-2YhNHLE9K_uCkCBZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7Xj1nVWs2aaTtWBneO2WM-unImKa7hTG1sCTTmtRBIedUsgcshDb67sUNsvjOOMf_w/ANTE.jpeg",
+          "src": "https://static.wixstatic.com/media/af3d5f_6a6a13ba38844b11b9247ffabf7ceaa0~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Purple%20HEART%402x.webp",
           "width": 100,
           "height": 100
         }
@@ -513,7 +513,7 @@ particlesJS('particles-js5',
         "value": "#ffffff"
       },
       "shape": {
-        "type": "heart",
+        "type": "image",
         "stroke": {
           "width": 0,
           "color": "#000000"
@@ -522,7 +522,7 @@ particlesJS('particles-js5',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1580309835499-Z13U5C3Z9CWRF060EX3W/ke17ZwdGBToddI8pDm48kNvsR2jzwyrIZFNeT0wfjowUqsxRUqqbr1mOJYKfIPR7LoDQ9mXPOjoJoqy81S2I8N_N4V1vUb5AoIIIbLZhVYxCRW4BPu10St3TBAUQYVKc2Ann8_cWNCRw4mYZGtzWex8nOVViO0ZtdiROl7549eEyVbYIN4Ot37cd0HKsSLDF/Audacity+Labs.png",
+          "src": "https://static.wixstatic.com/media/af3d5f_d6e6450c20d94b14b3cdf2eaf3e58215~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Yellow%20HEART%402x.webp",
           "width": 100,
           "height": 80
         }
