@@ -65,7 +65,7 @@ particlesJS('particles-js9',
         "enable": true,
         "distance": 250,
         "color": "#000",
-        "opacity": 1,
+        "opacity": 0,
         "width": 3
       },
       "move": {
@@ -188,7 +188,7 @@ particlesJS('particles-js8',
         "enable": true,
         "distance": 250,
         "color": "#000",
-        "opacity": 1,
+        "opacity": 0,
         "width": 3
       },
       "move": {
@@ -309,7 +309,7 @@ particlesJS('particles-js7',
         "enable": true,
         "distance": 250,
         "color": "#000",
-        "opacity": 1,
+        "opacity": 0,
         "width": 3
       },
       "move": {
@@ -430,7 +430,7 @@ particlesJS('particles-js6',
         "enable": true,
         "distance": 250,
         "color": "#000",
-        "opacity": 1,
+        "opacity": 0,
         "width": 2
       },
       "move": {
@@ -551,7 +551,7 @@ particlesJS('particles-js5',
         "enable": true,
         "distance": 350,
         "color": "#000",
-        "opacity": 1,
+        "opacity": 0,
         "width": 2
       },
       "move": {
