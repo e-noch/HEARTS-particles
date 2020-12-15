@@ -37,7 +37,7 @@ particlesJS('particles-js9',
         },
         "image": {
           "src": "https://static.wixstatic.com/media/af3d5f_84cdeba5b31a482c85bddd76ee03ce16~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Red%20HEART%402x.webp",
-          "width": 100,
+          "width": 80,
           "height": 60
         }
       },
