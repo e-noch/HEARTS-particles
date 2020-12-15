@@ -160,8 +160,8 @@ particlesJS('particles-js8',
         },
         "image": {
           "src": "https://static.wixstatic.com/media/af3d5f_e4f0f9bd0c954eeaa2794053fa70c6a1~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Blue%20HEART%402x.webp",
-          "width": 100,
-          "height": 100
+          "width": 80,
+          "height": 60
         }
       },
       "opacity": {
@@ -281,8 +281,8 @@ particlesJS('particles-js7',
         },
         "image": {
           "src": "https://static.wixstatic.com/media/af3d5f_6a6a13ba38844b11b9247ffabf7ceaa0~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Purple%20HEART%402x.webp",
-          "width": 100,
-          "height": 100
+          "width": 80,
+          "height": 60
         }
       },
       "opacity": {
