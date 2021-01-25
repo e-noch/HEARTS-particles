@@ -402,8 +402,8 @@ particlesJS('particles-js6',
         },
         "image": {
           "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607166943-SQN4MW17MSIO78NCYM1B/purple-heart-beat%402x.png?content-type=image%2Fpng",
-          "width": 100,
-          "height": 100
+          "width": 80,
+          "height": 60
         }
       },
       "opacity": {
