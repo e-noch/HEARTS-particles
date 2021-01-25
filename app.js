@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static.wixstatic.com/media/af3d5f_84cdeba5b31a482c85bddd76ee03ce16~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Red%20HEART%402x.webp",
+          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607338081-BAU0XD3LIC5AKU0NH1AN/red-heart-beat%402x.png?format=300w&content-type=image%2Fpng",
           "width": 80,
           "height": 60
         }
@@ -159,7 +159,7 @@ particlesJS('particles-js8',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static.wixstatic.com/media/af3d5f_e4f0f9bd0c954eeaa2794053fa70c6a1~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Blue%20HEART%402x.webp",
+          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607121231-72L19K462Q5KPBFX20ET/blue-heart-beat%402x.png?content-type=image%2Fpng",
           "width": 80,
           "height": 60
         }
@@ -280,7 +280,7 @@ particlesJS('particles-js7',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static.wixstatic.com/media/af3d5f_6a6a13ba38844b11b9247ffabf7ceaa0~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Purple%20HEART%402x.webp",
+          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607140300-Y1KRJ7D9W3EXFQ1IO88B/pink-heart-beat%402x.png?content-type=image%2Fpng",
           "width": 80,
           "height": 60
         }
@@ -401,7 +401,7 @@ particlesJS('particles-js6',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static.wixstatic.com/media/af3d5f_6a6a13ba38844b11b9247ffabf7ceaa0~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Purple%20HEART%402x.webp",
+          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607166943-SQN4MW17MSIO78NCYM1B/purple-heart-beat%402x.png?content-type=image%2Fpng",
           "width": 100,
           "height": 100
         }
@@ -522,7 +522,7 @@ particlesJS('particles-js5',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://static.wixstatic.com/media/af3d5f_d6e6450c20d94b14b3cdf2eaf3e58215~mv2.png/v1/fill/w_322,h_250,al_c,q_85,usm_0.66_1.00_0.01/Yellow%20HEART%402x.webp",
+          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607184636-9QKB31CJTHG8FOG4YN1V/turquoise-heart-beat%402x.png?content-type=image%2Fpng",
           "width": 100,
           "height": 80
         }
@@ -644,7 +644,7 @@ particlesJS('particles-js4',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1602709233731-K04UTTSYPM023N4Q8HJG/ke17ZwdGBToddI8pDm48kHqYAt3UgyjNg-0dlUc4K5hZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UnCxNA8dHvmd7460Z7fbKEmJ2gL2qv94i4UWS2y7YfwkXCxk_sn2atIO3dASbw33Q/download.png",
+          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607225853-POVK5CNC8FM1QWPM5T4D/yellow-heart-beat%402x.png?content-type=image%2Fpng",
           "width": 100,
           "height": 100
         }
