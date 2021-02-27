@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607338081-BAU0XD3LIC5AKU0NH1AN/red-heart-beat%402x.png?format=300w&content-type=image%2Fpng",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/black-heart-beat%402x.png",
           "width": 80,
           "height": 60
         }
@@ -159,7 +159,7 @@ particlesJS('particles-js8',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607121231-72L19K462Q5KPBFX20ET/blue-heart-beat%402x.png?content-type=image%2Fpng",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/purple-heart-beat%402x.png",
           "width": 80,
           "height": 60
         }
@@ -280,7 +280,7 @@ particlesJS('particles-js7',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607140300-Y1KRJ7D9W3EXFQ1IO88B/pink-heart-beat%402x.png?content-type=image%2Fpng",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/blue-heart-beat%402x.png",
           "width": 80,
           "height": 60
         }
@@ -401,7 +401,7 @@ particlesJS('particles-js6',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607166943-SQN4MW17MSIO78NCYM1B/purple-heart-beat%402x.png?content-type=image%2Fpng",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/yellow-heart-beat%402x.png",
           "width": 80,
           "height": 60
         }
@@ -522,7 +522,7 @@ particlesJS('particles-js5',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607184636-9QKB31CJTHG8FOG4YN1V/turquoise-heart-beat%402x.png?content-type=image%2Fpng",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/pink-heart-beat%402x.png",
           "width": 100,
           "height": 80
         }
@@ -644,7 +644,7 @@ particlesJS('particles-js4',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/5fff6ca2cbbc994cdc1ea907/1611607225853-POVK5CNC8FM1QWPM5T4D/yellow-heart-beat%402x.png?content-type=image%2Fpng",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/turquoise-heart-beat%402x.png",
           "width": 100,
           "height": 100
         }
@@ -766,7 +766,7 @@ particlesJS('particles-js3',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1592494743477-FF1Z02RP5FXA9K9777QV/ke17ZwdGBToddI8pDm48kCp2RdAXEQdFxZnjIuF2wjFZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpzQfRpdfFckAmtsSqg_XPWCfa65FPrLbmbiqKQMH9iSHsloc_P2UBuTODojDrWlTt8/BHSSP_Logo.png?format=500w",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/purple-heart-beat%402x.png",
           "width": 100,
           "height": 100
         }
@@ -888,7 +888,7 @@ particlesJS('particles-js2',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1580309835355-HKIXBXUCE471G4I6PMYV/ke17ZwdGBToddI8pDm48kIgPQh2DL0giqrAoBE4-YCp7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QHyNOqBUUEtDDsRWrJLTm6KEY-Spuw-yUpMKRxtTkQUPKZOvABjD8rrxZn4bU6rv9LAm-33ocF0QGJP9_PyTF/Bike+Durham.png?format=500w",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/red-heart-beat%402x.png",
           "width": 100,
           "height": 100
         }
@@ -1010,7 +1010,7 @@ particlesJS('particles-js1',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1580309835927-WOUGMTFBUH2LX1YQ4I89/ke17ZwdGBToddI8pDm48kK6WpU5oSleA8YyPlJ-2A0lZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7eMp11eiNXhrlbiOJISXy_MPYe7sru95PH5XVFbnRf8ukgar5lf97DVd4cH07Cd6gA/Child+Evangelism+Fellowship.png?format=500w",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/black-heart-beat%402x.png",
           "width": 100,
           "height": 40
         }
@@ -1142,7 +1142,7 @@ particlesJS('particlesJS',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://images.squarespace-cdn.com/content/v1/547cdf30e4b030f853b6d7c1/1602709233731-K04UTTSYPM023N4Q8HJG/ke17ZwdGBToddI8pDm48kHqYAt3UgyjNg-0dlUc4K5hZw-zPPgdn4jUwVcJE1ZvWhcwhEtWJXoshNdA9f1qD7UnCxNA8dHvmd7460Z7fbKEmJ2gL2qv94i4UWS2y7YfwkXCxk_sn2atIO3dASbw33Q/download.png?format=500w",
+          "src": "https://github.com/e-noch/HEARTS-particles/blob/main/images/turquoise-heart-beat%402x.png",
           "width": 100,
           "height": 100
         }
