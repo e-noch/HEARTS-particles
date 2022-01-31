@@ -522,9 +522,9 @@ particlesJS('particles-js5',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/red-heart-beat%402x.png",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/hearts-10year-logo%404x.png",
           "width": 100,
-          "height": 80
+          "height": 100
         }
       },
       "opacity": {
