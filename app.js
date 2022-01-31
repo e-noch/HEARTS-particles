@@ -36,7 +36,7 @@ particlesJS('particles-js9',
           "nb_sides": 5
         },
         "image": {
-          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/black-heart-beat%402x.png",
+          "src": "https://raw.githubusercontent.com/e-noch/HEARTS-particles/main/images/hearts-10year-logo%404x.png",
           "width": 80,
           "height": 60
         }
